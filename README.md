@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vitaliy
-- 👀 I’m interested in Manual or Automation tester / Python Developer position.
+- 👀 I’m interested in Manual or Automation Tester / Python Developer position.
 - 🌱 I’m currently learning Manual and Automation testing using Python programming language
 - 💞️ I’m looking to collaborate with small startups or big product companies.
 - 📫 How to reach me:
